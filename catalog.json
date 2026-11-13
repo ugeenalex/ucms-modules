@@ -1,0 +1,202 @@
+{
+  "updated": "2026-11-13T10:52:01.666Z",
+  "modules": [
+    {
+      "id": "countdown",
+      "version": "1.0.0",
+      "name": {
+        "ru": "Таймер",
+        "en": "Countdown",
+        "kk": "Таймер"
+      },
+      "description": {
+        "ru": "Обратный отсчёт до даты",
+        "en": "Countdown to a date",
+        "kk": "Күнге дейінгі кері санақ"
+      },
+      "author": "UCMS",
+      "ucms": ">=1.15.0",
+      "icon": "<circle cx=\"9\" cy=\"10\" r=\"5.5\"/><path d=\"M9 7.5V10l1.8 1.2M7 2.5h4\"/>",
+      "glyph": "",
+      "hasCode": true,
+      "file": "countdown-1.0.0.zip",
+      "size": 1440,
+      "sha256": "0c5817a0020c69eea489fad7a218731b401237aa0c79ef0ada31106c046d1434"
+    },
+    {
+      "id": "counters",
+      "version": "1.0.0",
+      "name": {
+        "ru": "Цифры",
+        "en": "Numbers",
+        "kk": "Сандар"
+      },
+      "description": {
+        "ru": "«500+ клиентов» с анимацией счёта",
+        "en": "“500+ clients” with a count-up animation",
+        "kk": "«500+ клиент» санау анимациясымен"
+      },
+      "author": "UCMS",
+      "ucms": ">=1.15.0",
+      "icon": "",
+      "glyph": "123",
+      "hasCode": true,
+      "file": "counters-1.0.0.zip",
+      "size": 1350,
+      "sha256": "57b970b51c5cf65b627a91e8a649493f16415172a92360d17fe725e27d220fb4"
+    },
+    {
+      "id": "faq",
+      "version": "1.0.0",
+      "name": {
+        "ru": "Вопросы и ответы",
+        "en": "FAQ",
+        "kk": "Сұрақтар мен жауаптар"
+      },
+      "description": {
+        "ru": "Раскрывающиеся вопросы и ответы",
+        "en": "Collapsible questions and answers",
+        "kk": "Ашылатын сұрақтар мен жауаптар"
+      },
+      "author": "UCMS",
+      "ucms": ">=1.15.0",
+      "icon": "<circle cx=\"9\" cy=\"9\" r=\"6.5\"/><path d=\"M7.2 7.2a1.9 1.9 0 1 1 2.6 1.8c-.5.2-.8.6-.8 1.1v.4\"/><circle cx=\"9\" cy=\"12.6\" r=\".6\" fill=\"currentColor\" stroke=\"none\"/>",
+      "glyph": "",
+      "hasCode": true,
+      "file": "faq-1.0.0.zip",
+      "size": 1243,
+      "sha256": "83d2d36b49ce9bcdb9d45673b4b4f35c707473a4c01d758b19d2f5ba17510a5b"
+    },
+    {
+      "id": "map",
+      "version": "1.0.0",
+      "name": {
+        "ru": "Карта",
+        "en": "Map",
+        "kk": "Карта"
+      },
+      "description": {
+        "ru": "Яндекс или Google Карты по коду встраивания",
+        "en": "Yandex or Google Maps by embed code",
+        "kk": "Яндекс немесе Google Карталары ендіру коды бойынша"
+      },
+      "author": "UCMS",
+      "ucms": ">=1.15.0",
+      "icon": "<path d=\"M9 15.5s-5-4.6-5-8.5a5 5 0 0 1 10 0c0 3.9-5 8.5-5 8.5z\"/><circle cx=\"9\" cy=\"7\" r=\"1.8\"/>",
+      "glyph": "",
+      "hasCode": true,
+      "file": "map-1.0.0.zip",
+      "size": 1412,
+      "sha256": "a60f39ceccd43555a9d85dc9e5d394f76a8dc70be49d14d607c88ca6c5b8081f"
+    },
+    {
+      "id": "pricing",
+      "version": "1.0.0",
+      "name": {
+        "ru": "Тарифы",
+        "en": "Pricing",
+        "kk": "Тарифтер"
+      },
+      "description": {
+        "ru": "Колонки тарифов: цена, возможности, кнопка",
+        "en": "Pricing plans: price, features, button",
+        "kk": "Тариф бағандары: баға, мүмкіндіктер, батырма"
+      },
+      "author": "UCMS",
+      "ucms": ">=1.15.0",
+      "icon": "<path d=\"M3 9.5 9.5 3H15v5.5L8.5 15z\"/><circle cx=\"12\" cy=\"6\" r=\"1\"/>",
+      "glyph": "",
+      "hasCode": true,
+      "file": "pricing-1.0.0.zip",
+      "size": 1597,
+      "sha256": "dad717154328e300b6af90159a03c6cbb1ced41db766c9709550128c7339815d"
+    },
+    {
+      "id": "quote",
+      "version": "1.0.0",
+      "name": {
+        "ru": "Цитата",
+        "en": "Quote",
+        "kk": "Дәйексөз"
+      },
+      "description": {
+        "ru": "Цитата или отзыв: текст, автор, фото",
+        "en": "Quote or testimonial: text, author, photo",
+        "kk": "Дәйексөз немесе пікір: мәтін, автор, фото"
+      },
+      "author": "UCMS",
+      "ucms": ">=1.15.0",
+      "icon": "",
+      "glyph": "❝",
+      "hasCode": true,
+      "file": "quote-1.0.0.zip",
+      "size": 1193,
+      "sha256": "291bf15367ed685fac2cb7d7a62a405ceafdb3c46cc4f3b5d995cf42195c6195"
+    },
+    {
+      "id": "social",
+      "version": "1.0.0",
+      "name": {
+        "ru": "Соцсети",
+        "en": "Social links",
+        "kk": "Әлеуметтік желілер"
+      },
+      "description": {
+        "ru": "Ссылки на соцсети, почту и телефон",
+        "en": "Links to social networks, email and phone",
+        "kk": "Әлеуметтік желілерге, поштаға және телефонға сілтемелер"
+      },
+      "author": "UCMS",
+      "ucms": ">=1.15.0",
+      "icon": "<circle cx=\"5\" cy=\"9\" r=\"2\"/><circle cx=\"13\" cy=\"4.5\" r=\"2\"/><circle cx=\"13\" cy=\"13.5\" r=\"2\"/><path d=\"m6.8 8 4.4-2.5M6.8 10l4.4 2.5\"/>",
+      "glyph": "",
+      "hasCode": true,
+      "file": "social-1.0.0.zip",
+      "size": 1945,
+      "sha256": "eaecec512a201472385f92849e2abd6a58e80aab5187ee8e1b7e1740a6c2c29e"
+    },
+    {
+      "id": "table",
+      "version": "1.0.0",
+      "name": {
+        "ru": "Таблица",
+        "en": "Table",
+        "kk": "Кесте"
+      },
+      "description": {
+        "ru": "Таблица из текста: ячейки через «|»",
+        "en": "Table from text: cells separated by “|”",
+        "kk": "Мәтіннен кесте: ұяшықтар «|» арқылы"
+      },
+      "author": "UCMS",
+      "ucms": ">=1.15.0",
+      "icon": "<rect x=\"2.5\" y=\"3\" width=\"13\" height=\"12\" rx=\"1.5\"/><path d=\"M2.5 7h13M2.5 11h13M7 7v8\"/>",
+      "glyph": "",
+      "hasCode": true,
+      "file": "table-1.0.0.zip",
+      "size": 1380,
+      "sha256": "e8e337c3783c6af031c27556388aa86c374901750c0e89c157549d5427ccad23"
+    },
+    {
+      "id": "team",
+      "version": "1.0.0",
+      "name": {
+        "ru": "Команда",
+        "en": "Team",
+        "kk": "Команда"
+      },
+      "description": {
+        "ru": "Сотрудники: фото, имя, должность, ссылка",
+        "en": "People: photo, name, role, link"
+      },
+      "author": "UCMS",
+      "ucms": ">=1.14.0",
+      "icon": "<circle cx=\"6.5\" cy=\"6.5\" r=\"2.3\"/><circle cx=\"12.5\" cy=\"7\" r=\"1.9\"/><path d=\"M2.5 14.5c.4-2.5 2-3.9 4-3.9s3.6 1.4 4 3.9M11 11c1.9 0 3.3 1.2 3.7 3.5\"/>",
+      "glyph": "",
+      "hasCode": false,
+      "file": "team-1.0.0.zip",
+      "size": 2611,
+      "sha256": "a12f58daff428d81a9e5cb4fece0e72da610578df6763eb5121e80d1c0a4690e"
+    }
+  ]
+}
